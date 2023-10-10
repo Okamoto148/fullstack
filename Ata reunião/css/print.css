@@ -1,0 +1,17 @@
+body{
+    margin-top: -150px;
+    
+}
+
+#primeiro{
+
+    margin:150px auto;
+    font-size: 25px;
+    padding-bottom: 40px;
+}
+
+main{
+    border: none;
+    padding-top: 30px;
+}
+
